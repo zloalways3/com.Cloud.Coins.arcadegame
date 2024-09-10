@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30b7c593-310d-4d37-ad7b-d1b6daa739bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BckgrndSnd.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoinsSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SndMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ControllerGame.cs" />
+        <option value="$PROJECT_DIR$/CoinMovement.cs" />
+        <option value="$PROJECT_DIR$/CoinController.cs" />
+        <option value="$PROJECT_DIR$/CoinSpawner.cs" />
+        <option value="$PROJECT_DIR$/RandomSpawner.cs" />
+        <option value="$PROJECT_DIR$/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/SwipeController.cs" />
+        <option value="$PROJECT_DIR$/DestroyOnTouch.cs" />
+        <option value="$PROJECT_DIR$/RoundedSlider.cs" />
+        <option value="$PROJECT_DIR$/GameStateManager.cs" />
+        <option value="$PROJECT_DIR$/СoinsSpawner.cs" />
+        <option value="$PROJECT_DIR$/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/LevelGrid.cs" />
+        <option value="$PROJECT_DIR$/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/SoundReset.cs" />
+        <option value="$PROJECT_DIR$/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/MusicManager.cs" />
+        <option value="$PROJECT_DIR$/BM.cs" />
+        <option value="$PROJECT_DIR$/BackgroundMusic.cs" />
+        <option value="$PROJECT_DIR$/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/CoinGen.cs" />
+        <option value="$PROJECT_DIR$/GameManager.cs" />
+        <option value="$PROJECT_DIR$/BckgrndSnd.cs" />
+        <option value="$PROJECT_DIR$/SndMgr.cs" />
+        <option value="$PROJECT_DIR$/LevelUnlocker.cs" />
+        <option value="$PROJECT_DIR$/CoinsSpawner.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2lkdbIPloedfFdNvD7MFFC0Xpb4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30b7c593-310d-4d37-ad7b-d1b6daa739bf" name="Default Changelist" comment="" />
+      <created>1725728079631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725728079631</updated>
+      <workItem from="1725728082016" duration="1656000" />
+      <workItem from="1725729974271" duration="15000" />
+      <workItem from="1725730006636" duration="8214000" />
+      <workItem from="1725739442705" duration="1279000" />
+      <workItem from="1725740991006" duration="1848000" />
+      <workItem from="1725797623499" duration="2832000" />
+      <workItem from="1725803947946" duration="7962000" />
+      <workItem from="1725815856674" duration="4144000" />
+      <workItem from="1725875470277" duration="8657000" />
+      <workItem from="1725884850459" duration="970000" />
+      <workItem from="1725888541037" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1624" y="330" key="run.anything.popup" timestamp="1725883536800">
+      <screen x="-2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-1624" y="330" key="run.anything.popup/0.0.1920.1040/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1725883536800" />
+  </component>
+</project>

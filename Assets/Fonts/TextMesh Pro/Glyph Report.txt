@@ -1,0 +1,12 @@
+Font: Square  Style: Black
+Point Size: 79   SP/PD Ratio: 6.3%
+
+Characters included: 97/97
+Missing characters: 0
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+
+Characters excluded from packing:
+----------------------------------------
